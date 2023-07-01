@@ -4,8 +4,8 @@
 }
 
 .header-content .header-mono{border:0px white solid}
-a .btn{background-color:rgba(0,0,100);color:white}
-a.btn:hover{border:1px white solid;color:#ffffff80}
+a .btn{background-color:rgb(230, 83, 34);color:white}
+a.btn:hover{border:1px rgb(220, 98, 12) solid;color:#ffffff80}
 
 
 .header-content .header-mono:hover{border:0px white solid;color:rgba(255,255,255,0.8)}
@@ -15,7 +15,7 @@ a.btn:hover{border:1px white solid;color:#ffffff80}
         
     }
 
-    a .btn{background-color:rgba(0,0,100);color:white}
+    a .btn{background-color:rgb(239, 100, 0);color:white}
     a.btn:hover{border:1px white solid;color:#ffffff80}
 
 }
